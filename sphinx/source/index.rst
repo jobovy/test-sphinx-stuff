@@ -12,10 +12,3 @@ Welcome to test-sphinx's documentation!
 
    firstpage.rst
    notebooks/secondpage.ipynb
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
