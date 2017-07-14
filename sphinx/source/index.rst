@@ -8,7 +8,6 @@ Welcome to test-sphinx's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    firstpage.rst
    notebooks/secondpage.ipynb
